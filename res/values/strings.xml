@@ -6,7 +6,7 @@
     <!-- AZURE configuration direct -->    
     <string name="azure">Azure Cloud Storage</string>  
     <string name="azure_direct_account_name">cloid</string>
-    <string name="azure_direct_access_key">Nycre+C4vdKZhFXfKaEsI82Zsby1bFNRmznvjLc4U5g2VTkePWVW2lUHQLC+p9TF12BKoznlMndtCP90PzdWag==</string>   
+    <string name="azure_direct_access_key">insert-access-key-here</string>   
     <string name="azure_container">pictures</string>
     <string name="txt_acct_name">Account name</string>
     <string name="txt_access_key">Access Key</string>
