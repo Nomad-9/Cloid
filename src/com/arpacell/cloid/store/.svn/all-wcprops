@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/%20cloid%20--username%20TSiciliani@gmail.com/Cloid/src/com/arpacell/cloid/store
+END
+StorageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3/trunk/%20cloid%20--username%20TSiciliani@gmail.com/Cloid/src/com/arpacell/cloid/store/StorageFactory.java
+END
+AzureStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/3/trunk/%20cloid%20--username%20TSiciliani@gmail.com/Cloid/src/com/arpacell/cloid/store/AzureStorage.java
+END
+Storage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/%20cloid%20--username%20TSiciliani@gmail.com/Cloid/src/com/arpacell/cloid/store/Storage.java
+END
+OperationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/3/trunk/%20cloid%20--username%20TSiciliani@gmail.com/Cloid/src/com/arpacell/cloid/store/OperationException.java
+END
+CloudPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/3/trunk/%20cloid%20--username%20TSiciliani@gmail.com/Cloid/src/com/arpacell/cloid/store/CloudPreferences.java
+END
+MockStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/3/trunk/%20cloid%20--username%20TSiciliani@gmail.com/Cloid/src/com/arpacell/cloid/store/MockStorage.java
+END

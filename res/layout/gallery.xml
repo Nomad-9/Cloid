@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:padding="20dip">
+
+    <ImageView android:id="@+id/storage"
+             android:layout_height="wrap_content"
+             android:layout_width="wrap_content"
+             android:layout_gravity="center"/>
+
+    <Button android:id="@+id/btnCancel"
+            android:text="@string/gallery"
+            android:layout_gravity="bottom|left"
+            style="@style/btnTrans"
+            android:onClick="viewGallery"/>
+
+     <Button android:id="@+id/btnSave"
+            android:text="@string/btn_put"
+            android:layout_gravity="bottom|right"
+            style="@style/btnTrans"
+            android:onClick="save"/>
+
+</FrameLayout >
+
