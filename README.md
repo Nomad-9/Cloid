@@ -12,6 +12,8 @@ Specifically, the application supports the following features:
 Besides 'pull' device-to-cloud communications, the application is also push-enabled (GCM client) 
 for cloud-to-device 'push' notifications.
 
-More information is available at this project page, with screen shots, etc...
+More information is available at this project page, with screen shots, etc...:
+
+http://nomad-9.github.com/Cloid 
 
 Nomad-9.
