@@ -16,4 +16,6 @@ More information is available at this project page, with screen shots, etc...:
 
 http://nomad-9.github.com/Cloid 
 
+Apache License 2.0.
+
 Nomad-9.
