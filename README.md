@@ -1,6 +1,6 @@
 Cloid
 =====
-Clois is an Android showcase application that interacts with the Azure cloud.
+Cloid is an Android showcase application that interacts with the Azure cloud.
 
 Specifically, the application supports the following features:
 
