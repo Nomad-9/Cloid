@@ -41,6 +41,7 @@
                   android:configChanges="orientation|keyboardHidden"/>
         
         <activity android:name=".DownloadActivity"
+                  android:screenOrientation="portrait"
                   android:windowSoftInputMode="stateHidden"
                   android:configChanges="orientation|keyboardHidden"
                   android:theme="@android:style/Theme.Translucent"/>
@@ -49,6 +50,7 @@
                   android:theme="@android:style/Theme.Translucent"/>
          
         <activity android:name=".BrowseActivity"
+                  android:screenOrientation="portrait"
                   android:theme="@android:style/Theme.Translucent"/>
         
         <activity android:name=".DeleteActivity"
