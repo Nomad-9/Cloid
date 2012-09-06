@@ -1,6 +1,6 @@
 Cloid
 =====
-Cloid is an Android showcase application that interacts with the Azure cloud.
+Cloid is an Android showcase application that interacts with the Windows Azure cloud.
 
 Specifically, the application supports the following features:
 
@@ -15,6 +15,11 @@ for cloud-to-device 'push' notifications.
 More information is available at this project page, with screen shots, etc...:
 
 http://nomad-9.github.com/Cloid 
+
+Article at DZone:
+
+http://cloud.dzone.com/articles/cloud-apps-windows-azure
+
 
 Apache License 2.0.
 
